@@ -4,7 +4,7 @@ If you need help contact me on discord: Tortoise Design#9228
 Discord server: https://discord.gg/3GFKFPaxK3
 
 1. Go to your database and execute the following SQL command:
-
+ 
 CREATE TABLE `okokBilling` (
   `id` int(50) NOT NULL PRIMARY KEY AUTO_INCREMENT,
   `receiver_identifier` varchar(255) NOT NULL,
